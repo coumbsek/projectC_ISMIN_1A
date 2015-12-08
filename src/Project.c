@@ -10,9 +10,10 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "Projet.h"
+#include "Project.h"
 
 int		main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+
 	return EXIT_SUCCESS;
 }
